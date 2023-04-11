@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Felipe Direito</h1>
+<h1 align="center">Hi there 👋, I am Felipe Direito</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
 - 🌱 Software Engineering studant
