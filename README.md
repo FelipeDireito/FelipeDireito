@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I am Felipe Direito</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
+- 🌱 Software Engineering studant
+
 - 🔭 I’m currently working on **AiLab**
 
 - 📫 How to reach me **fedireito92@gmail.com**
